@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.badlogic.androidgames">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".gl3d.GL3DBasicsStarter">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".gl3d.Vertices3Test"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="landscape"/>
+
+        <activity android:name=".gl3d.PerspectiveTest"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="landscape"/>
+
+        <activity android:name=".gl3d.ZBufferTest"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="landscape"/>
+
+        <activity android:name=".gl3d.ZBlendingTest"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="landscape"/>
+
+        <activity android:name=".gl3d.CubeTest"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="landscape"/>
+
+        <activity android:name=".gl3d.HierarchyTest"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="landscape"/>
+
+</application>
+
+</manifest>

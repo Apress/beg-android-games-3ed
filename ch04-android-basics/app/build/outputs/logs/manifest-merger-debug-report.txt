@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:4:1-92
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:4:18-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:5:5-97
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:6:5-71:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha2] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha2\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:11:9-35
+	android:hardwareAccelerated
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.badlogic.androidgames.ch04androidbasics.LifeCycleTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:13:9-15:16
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:13:49-80
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:14:9-68
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:13:19-48
+activity#com.badlogic.androidgames.ch04androidbasics.SingleTouchTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:16:9-19:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:16:51-84
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:17:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:16:19-50
+activity#com.badlogic.androidgames.ch04androidbasics.MultiTouchTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:20:9-23:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:20:50-82
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:20:19-49
+activity#com.badlogic.androidgames.ch04androidbasics.KeyTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:24:9-27:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:24:43-67
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:25:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:24:19-42
+activity#com.badlogic.androidgames.ch04androidbasics.AccelerometerTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:28:53-87
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:28:19-52
+activity#com.badlogic.androidgames.ch04androidbasics.AssetsTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:32:46-73
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:33:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:32:19-45
+activity#com.badlogic.androidgames.ch04androidbasics.ExternalStorageTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:36:55-92
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:37:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:36:19-54
+activity#com.badlogic.androidgames.ch04androidbasics.SoundPoolTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:40:49-79
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:40:19-48
+activity#com.badlogic.androidgames.ch04androidbasics.FullScreenTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:44:50-81
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:45:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:44:19-49
+activity#com.badlogic.androidgames.ch04androidbasics.RenderViewTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:48:50-82
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:49:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:48:19-49
+activity#com.badlogic.androidgames.ch04androidbasics.ShapeTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:52:45-71
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:53:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:52:19-44
+activity#com.badlogic.androidgames.ch04androidbasics.BitmapTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:56:46-73
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:57:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:56:19-45
+activity#com.badlogic.androidgames.ch04androidbasics.SurfaceViewTest
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:60:51-83
+	android:configChanges
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:61:13-72
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:60:19-50
+activity#com.badlogic.androidgames.ch04androidbasics.AndroidBasicsStarter
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:64:9-70:20
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:64:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:65:13-69:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:66:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:68:17-77
+	android:name
+		ADDED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml:68:27-74
+uses-sdk
+INJECTED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha2] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha2\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jfdim\AndroidStudioProjects\Ch04AndroidBasics\app\src\main\AndroidManifest.xml
