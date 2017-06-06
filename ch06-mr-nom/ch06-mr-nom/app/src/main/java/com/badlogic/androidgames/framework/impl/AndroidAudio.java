@@ -20,15 +20,18 @@ public class AndroidAudio implements Audio {
     public AndroidAudio(Activity activity) {
         activity.setVolumeControlStream(AudioManager.STREAM_MUSIC);
         this.assets = activity.getAssets();
-        AudioAttributes audioAttributes = new AudioAttributes.Builder()
-                .setUsage(AudioAttributes.USAGE_GAME)
-                .setContentType(AudioAttributes.CONTENT_TYPE_SONIFICATION)
-                .build();
-
-        this.soundPool = new SoundPool.Builder()
-                .setMaxStreams(20)
-                .setAudioAttributes(audioAttributes)
-                .build();
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            AudioAttributes audioAttributes = new AudioAttributes.Builder()
+                    .setUsage(AudioAttributes.USAGE_GAME)
+                    .setContentType(AudioAttributes.CONTENT_TYPE_SONIFICATION)
+                    .build();
+            this.soundPool = new SoundPool.Builder()
+                    .setMaxStreams(20)
+                    .setAudioAttributes(audioAttributes)
+                    .build();
+        } else {
+            this.soundPool = new SoundPool(20, AudioManager.STREAM_MUSIC, 1);
+        }
     }
 
     public Music newMusic(String filename) {
